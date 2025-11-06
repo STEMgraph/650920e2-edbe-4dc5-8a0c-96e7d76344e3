@@ -1,6 +1,7 @@
 <!---
 {
-  "depends_on": ["https://github.com/STEMgraph/474307f2-a30c-4639-9379-298bf1a4c00b"],
+  "id": "650920e2-edbe-4dc5-8a0c-96e7d76344e3",
+  "depends_on": ["474307f2-a30c-4639-9379-298bf1a4c00b"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
   "keywords": ["git", "ssh", "remote", "repository"]
